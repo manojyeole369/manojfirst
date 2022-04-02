@@ -1,0 +1,2 @@
+rootProject.name = "Git Hello"
+include ':app'
